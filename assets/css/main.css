@@ -4772,3 +4772,11 @@ input, select, textarea {
 .cm-up:hover > .cm-icon {
 	background: #fff;
 }
+
+#scrollUp {
+  bottom: 20px;
+  right: 20px;
+  padding: 10px 20px;
+  background: url('images/top.png');
+  color: #fff;
+}
