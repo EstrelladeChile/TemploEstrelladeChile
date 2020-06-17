@@ -3180,7 +3180,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: 200px) {
 
 			.pagination .page, .pagination .extra {
 				display: none;
