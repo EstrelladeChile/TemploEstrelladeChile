@@ -4780,3 +4780,8 @@ input, select, textarea {
   background: url('images/top.png');
   color: #fff;
 }
+
+video{
+	width: 100%;
+	
+}
