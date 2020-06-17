@@ -3183,7 +3183,7 @@ input, select, textarea {
 		@media screen and (max-width: 200px) {
 
 			.pagination .page, .pagination .extra {
-				display: none;
+				font-size: 0.9rem;
 			}
 
 		}
