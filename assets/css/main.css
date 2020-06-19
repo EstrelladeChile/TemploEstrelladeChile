@@ -4821,6 +4821,10 @@ video{
 	background: #075e54;
 }
 
+.icon2-github{
+	background: #fefefe;
+}
+
 .icon2:first-child {
 	border-radius: 1rem 0 0 0;
 }
